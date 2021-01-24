@@ -1,10 +1,5 @@
 # READ ME
-
-Markup : - Hardware Specification
-              - MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
-              -  2,3 GHz Quad-Core Intel Core i5
-              - 16 GB 2133 MHz LPDDR3
-             
+  
           - Software Specification 
              - OS : MacOS Catalina 10.15.7
              - Eclipse 2019-12 (4.14.0)
@@ -15,13 +10,9 @@ Markup : - Hardware Specification
              - Apache Maven 3.6.3
              
            - Hardware Specification 
-             - OS : MacOS Catalina 10.15.7
-             - Eclipse 2019-12 (4.14.0)
-             - selenium-java 3.141.59
-             - testng 6.11
-             - maven-surefire-report-plugin 3.0.0-M5
-             - chromedriver
-             - Apache Maven 3.6.3
+             -  MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+             - 2,3 GHz Quad-Core Intel Core i5
+             - 16 GB 2133 MHz LPDDR3
 
 How To Run
 Disclaimer :
