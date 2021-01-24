@@ -85,11 +85,6 @@ public class bookingPage {
 			if (driver.findElement(By.xpath("//*[@id=\"app\"]/div/div[1]/div/div/div/div/div[3]/button")).isEnabled() == true) {
 				driver.findElement(By.xpath("//*[@id=\"app\"]/div/div[1]/div/div/div/div/div[3]/button")).click();
 			}
-//			WebElement anotherTrans = driver.findElement(By.xpath("//*[@id=\"app\"]/div/div[1]/div/div/div/div/div[3]/button"));
-//			String anotherTransactions = anotherTrans.getText();
-//			if (anotherTransactions.equalsIgnoreCase("YA, LANJUTKAN")){
-//				anotherTrans.click();
-//			}
 		}
 	
 	public void doCheckoutTrain() {
@@ -101,10 +96,6 @@ public class bookingPage {
 		
 		System.out.println("Fill Data");
 		WebElement inputName = driver.findElement(By.xpath("//*[@id=\"contact-form\"]/div[1]/div[2]/div[2]/div/div[1]/div/input"));
-//		WebElement tapTitle = driver.findElement(By.xpath("//*[@id=\"contact-form\"]/div[1]/div[2]/div[2]/div/div[2]/div/input[1]"));
-//		tapTitle.click();
-//		WebElement chooseTitle = driver.findElement(By.xpath("//*[@id=\"app\"]/div/div[3]/div[3]/div/div[2]/div/div[1]/div/div[1]/div[3]/div[1]/div[1]/div/div[3]/ul/li[2]"));
-//		chooseTitle.click();
 		WebElement inputPhoneNumber = driver.findElement(By.xpath("//*[@id=\"contact-form\"]/div[1]/div[2]/div[2]/div/div[5]/div/input"));
 		WebElement inputEmail = driver.findElement(By.xpath("//*[@id=\"contact-form\"]/div[1]/div[2]/div[2]/div/div[6]/div/input"));
 				
