@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32583" started-at="2021-01-24T16:44:31 WIB" finished-at="2021-01-24T16:45:04 WIB">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32583" started-at="2021-01-24T16:44:31 WIB" finished-at="2021-01-24T16:45:04 WIB">
+      <class name="com.qa.tests.demoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.demoTest@5a1c0542]" name="setUp" is-config="true" duration-ms="1652" started-at="2021-01-24T16:44:31 WIB" finished-at="2021-01-24T16:44:33 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bookingflight()[pri:0, instance:com.qa.tests.demoTest@5a1c0542]" name="bookingflight" duration-ms="16168" started-at="2021-01-24T16:44:33 WIB" finished-at="2021-01-24T16:44:49 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingflight -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.demoTest@5a1c0542]" name="tearDown" is-config="true" duration-ms="197" started-at="2021-01-24T16:44:49 WIB" finished-at="2021-01-24T16:44:49 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.demoTest@5a1c0542]" name="setUp" is-config="true" duration-ms="970" started-at="2021-01-24T16:44:49 WIB" finished-at="2021-01-24T16:44:50 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bookingsTrain()[pri:0, instance:com.qa.tests.demoTest@5a1c0542]" name="bookingsTrain" duration-ms="13419" started-at="2021-01-24T16:44:50 WIB" finished-at="2021-01-24T16:45:04 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingsTrain -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.demoTest@5a1c0542]" name="tearDown" is-config="true" duration-ms="148" started-at="2021-01-24T16:45:04 WIB" finished-at="2021-01-24T16:45:04 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.demoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
