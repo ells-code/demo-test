@@ -13,6 +13,15 @@ Markup : - Hardware Specification
              - maven-surefire-report-plugin 3.0.0-M5
              - chromedriver
              - Apache Maven 3.6.3
+             
+           - Hardware Specification 
+             - OS : MacOS Catalina 10.15.7
+             - Eclipse 2019-12 (4.14.0)
+             - selenium-java 3.141.59
+             - testng 6.11
+             - maven-surefire-report-plugin 3.0.0-M5
+             - chromedriver
+             - Apache Maven 3.6.3
 
 How To Run
 Disclaimer :
