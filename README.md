@@ -1,9 +1,9 @@
 # READ ME
 
-Hardware Specification 
-MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
-2,3 GHz Quad-Core Intel Core i5
-16 GB 2133 MHz LPDDR3
+- Hardware Specification 
+ MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+ 2,3 GHz Quad-Core Intel Core i5
+ 16 GB 2133 MHz LPDDR3
 
 Software Specification
 OS : MacOS Catalina 10.15.7
