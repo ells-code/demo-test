@@ -1,4 +1,4 @@
-# demo-test
+# READ ME
 
 Hardware Specification 
 MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
