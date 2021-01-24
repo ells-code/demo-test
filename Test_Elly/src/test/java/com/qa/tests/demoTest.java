@@ -21,8 +21,6 @@ import org.testng.annotations.Test;
 
 public class demoTest extends bookingPage {
 	
-//	WebDriver driver;
-	
 	@BeforeMethod
 	public void setUp() {
 		System.setProperty("webdriver.chrome.driver", "webdriver/chromedriver-2");
