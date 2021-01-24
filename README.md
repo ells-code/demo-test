@@ -23,3 +23,5 @@ ChromeDriver as a webdriver
 4. to check that you have already on the correct place, please run this command : `$pwd`
 5. Then run this command to run the automation test case : $mvn clean install
 6. You can see the report by reach this folder Test_Elly/target/surefire-reports/Surefire\ suite/Surefire\ test.html 
+
+You can look at the sample result video right here :https://drive.google.com/file/d/1GEFMNIs35Qlp4xHPP6ruGlxA1Rg7obJE/view?usp=sharing
